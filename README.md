@@ -1,4 +1,8 @@
-->: made by omnivoyant
+<h1 align="center">Kucoin VM</h1>
+<div align="center">
+  <strong>->: made by omnivoyant</strong>
+</div>
+<br />
 
 1. proxy format
    - format: `http://username:password@hostname:port` or `https://username:password@hostname:port`
