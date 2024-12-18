@@ -1,0 +1,7 @@
+{
+    "proxies": "etc/proxies.txt",
+    "workers": 10,
+    "console": true,
+    "emails": "etc/emails.txt"
+  }
+  
